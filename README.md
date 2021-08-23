@@ -1,0 +1,9 @@
+# Simple Dice Roller Webpage Demo
+
+This project is just a basic demo for students to see how JavaScript can interact with HTML.
+
+The dice roll system shown in the code is based on the Dungeons & Dragons dice system, showing dice ranges appropriate to that game.
+
+<p align="center">
+    <img src="./docs/WebpageScreenshot001.png">
+</p>
