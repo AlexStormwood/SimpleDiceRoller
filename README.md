@@ -9,4 +9,4 @@ The dice roll system shown in the code is based on the Dungeons & Dragons dice s
 </p>
 
 Visit this link to see the interactive project deployed on Github Pages:
-[https://alexholderdeveloper.github.io/SimpleDiceRoller/src/index.html](https://alexholderdeveloper.github.io/SimpleDiceRoller/src/index.html)
+[https://alexstormwood.github.io/SimpleDiceRoller/src/index.html](https://alexstormwood.github.io/SimpleDiceRoller/src/index.html)
